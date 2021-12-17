@@ -1,8 +1,8 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "private": true,
-  "proxy": "https://blockchain-wallet.azurewebsites.net",
+  "private": false,
+  "proxy": "https://sudocoin.azurewebsites.net",
   "dependencies": {
     "axios": "^0.19.0",
     "bootstrap": "^4.3.1",
